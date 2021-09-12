@@ -1,0 +1,20 @@
+h1{
+    width: fit-content;    
+    margin: auto;
+}
+
+.rollTexto{       
+    width: fit-content;
+    text-align: end;  
+    margin: auto; 
+}
+
+.box-grafico{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: flex-end;    
+    background-color: black;    
+    height: fit-content;
+    justify-content: space-between;
+    padding: 10px;
+}
